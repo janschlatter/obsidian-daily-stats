@@ -22,3 +22,12 @@ rect:hover {
 #color-elem {
     color: var(--text-accent);
 }
+
+.react-calendar-heatmap-month-labels,
+.react-calendar-heatmap-weekday-labels  {
+    display: none;
+}
+
+.react-calendar-heatmap {
+    margin-right: -30%;
+}
