@@ -1,3 +1,9 @@
+This is a tiny fork of dhruvik7's Obsidian plugin. All it does is remove the labels from the sidebar element, making it look a lot cleaner.
+
+If you have problems with alignment, try to change the last CSS ruleset found in styles.css.
+
+---
+
 ## Obsidian Daily Stats
 
 This is a daily word count plugin for Obsidian (https://obsidian.md). You can see today's word count in the bottom right corner of your screen, and also see the historical logs in a right panel view akin to Github's contribution graph.
